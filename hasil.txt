@@ -1,0 +1,827 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport"
+	content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+<meta name="title" content="Stricter border control in Guimaras starts June 7" />
+<meta name="description" content="ILOILO CITY, June 7 (PIA) - - Starting today, June 7, there will be only three points of entry" />
+<meta name="keywords" content="Health News" />
+<meta name="news_keywords" content="Health News" />
+<meta name="robots" content="index, follow" />
+<meta name="revisit-after" content="1 Day" />
+
+<meta property="og:title" content="Stricter border control in Guimaras starts June 7" />
+<meta property="og:site_name" content="Philippine Times" />
+<meta property="og:url" content="https://www.philippinetimes.com/news/269793821/stricter-border-control-in-guimaras-starts-june-7" />
+<meta property="og:description" content="ILOILO CITY, June 7 (PIA) - - Starting today, June 7, there will be only three points of entry" />
+<meta property="og:image" content="https://cdn.bignewsnetwork.com/pia1623047915.jpg" />
+<meta property="og:type" content="article" />
+<meta property="og:locale" content="en_US" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@pntimes" />
+<meta name="twitter:title" content="Stricter border control in Guimaras starts June 7" />
+<meta name="twitter:description" content="ILOILO CITY, June 7 (PIA) - - Starting today, June 7, there will be only three points of entry" />
+<meta name="twitter:image" content="https://cdn.bignewsnetwork.com/pia1623047915.jpg" />
+
+<title>Stricter border control in Guimaras starts June 7</title>
+<link rel="shortcut icon"
+	href="https://static.midwestradionetwork.com/web/premier/favicons/favicon.ico" />
+<link rel="stylesheet"
+	href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.3.0/css/foundation.min.css" />
+<link rel="stylesheet" type="text/css"
+	href="https://static.midwestradionetwork.com/web/premier/css/white_style.css" />
+
+<link rel="canonical" href="https://pia.gov.ph/news/articles/1077376" />
+<script type="text/javascript"
+	src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script type="text/javascript"
+	src="https://static.midwestradionetwork.com/web/premier/js/app.js"></script>
+
+	<script type="text/javascript">
+	window._mNHandle = window._mNHandle || {};
+	window._mNHandle.queue = window._mNHandle.queue || [];
+	medianet_versionId = "3121199";
+	</script>
+	
+</head>
+<body>
+	<div class="wrapper">
+		<header>
+			<div class="container">
+				<div class="row expanded">
+					<div class="large-12  medium-12 columns text-center">
+						<div class="logo">
+							<a href="/"><img src="https://static.midwestradionetwork.com/pr_logos/philippine-times.png" /></a>
+						</div>
+						<div class="new_text">
+							<span class="date">Mon, 07 Jun 2021</span> <br>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="stick-header">
+				<div class="container">
+					<div class="stick-logo">
+						<a href="/"><img src="https://static.midwestradionetwork.com/pr_logos/philippine-times.png" /></a>
+					</div>
+					<ul>
+						<li><a href="http://www.facebook.com/pages/Philippine-Times/179808928702280" target="_blank"> <img
+								src="https://static.midwestradionetwork.com/web/premier/images/he-fb-icon.png" />
+						</a></li>
+						<li><a href="https://twitter.com/pntimes" target="_blank"> <img
+								src="https://static.midwestradionetwork.com/web/premier/images/he-tw-icon.png" />
+						</a></li>
+						<li><a href="https://plus.google.com/112447728162131364574" target="_blank"> <img
+								src="https://static.midwestradionetwork.com/web/premier/images/he-go-icon.png" />
+						</a></li>
+						<li><a href="http://feeds.philippinetimes.com/rss/0267775d6f1c3971" target="_blank"> <img
+								src="https://static.midwestradionetwork.com/web/premier/images/he-wefi-icon.png" />
+						</a></li>
+					</ul>
+				</div>
+			</div>
+		</header>
+		<nav>
+			<div class="container">
+				<div class="row expanded navigation">
+					<div class="title-bar" data-responsive-toggle="navigation-menu"
+						data-hide-for="large">
+						<button class="menu-icon" type="button" data-toggle></button>
+						<div class="title-bar-title">Menu</div>
+					</div>
+					<div class="top-bar" id="navigation-menu">
+						<div class="top-bar-left">
+							<ul class="dropdown menu" data-dropdown-menu>
+							<li><a class="active" href="/">Home</a></li>
+							<li><a href="/category/b8de8e630faf3631">International</a></li>
+							<li><a href="/category/3e5bbccc730d258c">Manila</a></li>
+							<li><a href="/category/3a8a80d6f705f8cc">Business</a></li>
+							<li><a href="/news-wire">Wire</a></li>
+							<li><a href="/archive">Search</a></li>
+							<li><a href="http://www.searchweather.net/">Weather</a></li>
+							<li><a href="http://www.midwestradionetwork.com/">Network</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="volume-no">
+						<a href="#">Volume No. 0205/16</a>
+					</div>
+				</div>
+			</div>
+		</nav>
+		<div class="container">
+			<div class="row expanded content-section inner-section">
+				<div class="large-8  medium-7 collapse left-section single">
+
+
+					<div class="row collapse world-new-section">
+						<div class="banner-section">
+							<h2>Stricter border control in Guimaras starts June 7</h2>
+							<p>Philippine Information Agency<br>07 Jun 2021, 16:38 GMT+10</p>
+							<img src="https://cdn.bignewsnetwork.com/pia1623047915.jpg"
+								width="100%">
+							<div class="banner-text">
+								
+								<div><p>ILOILO CITY, June 7 (PIA) - - Starting today, June 7, there will be only three points of entry for residents and visitors to the island province of Guimaras as the provincial government tightens again its border control to contain the spread of coronavirus disease 2019 (COVID-19).</p><p>Under Executive Order No. 24 signed by Governor Samuel Gumarin on June 5, 2021, the only ports of entry for people to Guimaras are the Jordan Wharf, Buenavista Wharf and Ro-Ro Wharf in Hoskyn, Jordan.</p><p>Puyo Wharf in Nueva Valencia, Tacay Wharf in Buenavista and Sebaste Wharf in the Municipality of Sibunag shall be opened for trading and cargo purposes only.</p><p>EO No. 24, which is an order further restricting the movement of persons to arrest the spread of COVID 19 pandemic in the province, took effect from June 7 until further revoked or amended by Gumarin.</p><p>As stated in the directive, sea vessels plying the Guimaras-Iloilo route and vice versa shall be allowed to operate from 6 a.m. until 3 p.m.</p><p>Also, only highly essential inbound/outbound travels will be allowed. These includes transport of basic commodities and necessities, medical reasons, exercise of profession and work-related transactions and other meritorious cases as may be determined by the provincial government.</p><p>Gumarin further directed Mayors to establish local border restrictions, such as establishment of border control points in coordination with the Philippine National Police, among others.</p><p>He said the provincial government must double its efforts to curb the rising cases of COVID-19 infections as the province's healthcare system is already overwhelmed.</p><p>"The situation now needs drastic measures. We cannot just sit kag lantawon lang nga magsige saka ang kaso sang COVID-19 sa probinsiya sang Guimaras (and just look at the rising cases of COVID-19 in the province of Guimaras). Kinahanglan naton mag-double time para makontrol ang paglapta sang virus (We need to double our efforts to control the spread of the virus) as our healthcare system is already overwhelmed. Healthcare facilities in our neighboring provinces are also dealing with the surge of infections. Indi kita mahimo magsalig sa ila (We should not rely on them), that is why we have to address the situation head-on," said Gumarin in a press report.</p><p>Data from Department of Health Region 6 showed that 90.32 percent of COVID-19 beds in the healthcare facilities of Guimaras have been occupied as of June 1, 2021 due to the surge of recorded cases.</p><p>Out of the 605 total cases recorded in the island, 101 are active cases, as of June 5, 2021. (JSC/Guimaras PIO/laf/PIA6 Iloilo/Photo courtesy of the province of Guimaras)</p></div>
+							</div>
+						</div>
+					</div>
+
+					<!-- Ad 600x250 -->
+					<div class="row collapse">
+						<div class="large-12 medium-12 columns">
+
+						<div id="318873353">
+					    <script type="text/javascript">
+					        try {
+					            window._mNHandle.queue.push(function (){
+					                window._mNDetails.loadTag("318873353", "600x250", "318873353");
+					            });
+					        }
+					        catch (error) {}
+					    </script>
+					</div>
+
+						</div>
+					</div>
+					<!-- End of ad -->
+					
+					<div class="row collapse share-section">
+						<div class="share-articl">
+							<div class="share">
+								<h5>
+									<a href="#"> Share article:</a>
+								</h5>
+							</div>
+							<div class="sharethis-inline-share-buttons"></div>
+						</div>
+
+					</div>
+					<div class="row collapse weather-add text-center">
+						<div class="large-12 columns"><div id="contentad338391"></div>
+<script type="text/javascript">
+    (function(d) {
+        var params =
+        {
+            id: "a41be8ab-62b7-4112-ad5c-713b2217c50b",
+            d:  "cGhpbGlwcGluZXRpbWVzLmNvbQ==",
+            wid: "338391",
+            cb: (new Date()).getTime()
+        };
+
+        var qs=[];
+        for(var key in params) qs.push(key+'='+encodeURIComponent(params[key]));
+        var s = d.createElement('script');s.type='text/javascript';s.async=true;
+        var p = 'https:' == document.location.protocol ? 'https' : 'http';
+        s.src = p + "://api.content-ad.net/Scripts/widget2.aspx?" + qs.join('&');
+        d.getElementById("contentad338391").appendChild(s);
+    })(document);
+</script>
+                    </div>
+					</div>
+
+
+					<div
+						class="row collapse video-section hide-for-small-only hide-for-medium-only">
+						<div class="barking-new">
+							<h3>Watch latest videos</h3>
+						</div>
+						<div class="row collapse">
+							
+							
+							<div class="large-6 small-12 columns">
+								<div class="row columns">
+									<iframe width="373" height="280" src="https://www.youtube.com/embed/1TENlMKxnN0"
+										frameborder="0" allowfullscreen poster="https://static.bignewsnetwork.com/videos/thumbnail/jun04v00.jpg"></iframe>
+								</div>
+							</div>
+							
+							
+							
+							
+							
+							
+							<div class="large-6 small-12 columns">
+								<div class="row columns">
+									<iframe width="373" height="280" src="https://www.youtube.com/embed/xWfPMlinT9g"
+										frameborder="0" allowfullscreen poster="https://static.bignewsnetwork.com/videos/thumbnail/jun01v00.jpg"></iframe>
+								</div>
+							</div>
+							
+							
+						</div>
+						<div class="row collapse">
+							
+							
+							
+							
+							<div class="large-6 small-12 columns">
+								<div class="row columns">
+									<iframe width="373" height="280" src="https://www.youtube.com/embed/JgUoIKzcQjI"
+										frameborder="0" allowfullscreen poster="https://static.bignewsnetwork.com/videos/thumbnail/may30v00.jpg"></iframe>
+								</div>
+							</div>
+							
+							
+							
+							
+							
+							
+							<div class="large-6 small-12 columns">
+								<div class="row columns">
+									<iframe width="373" height="280" src="https://www.youtube.com/embed/YBQRgIICEgU"
+										frameborder="0" allowfullscreen poster="https://static.bignewsnetwork.com/videos/thumbnail/may29v00.jpg"></iframe>
+								</div>
+							</div>
+						</div>
+					</div>
+
+
+
+					<div class="row collapse subscribe">
+						<div class="large-12 columns subscribe-section">
+							<h5>
+								<a href="#">Subscribe and Follow</a>
+							</h5>
+							<p>
+								Get a daily dose of <span>Philippine Times</span> news
+								through our daily email, its complimentary and keeps you fully
+								up to date with world and business news as well.
+							</p>
+							<script>
+								function subscribeMail() {
+									window
+											.open(
+													"http://subscription.midwestradionetwork.com/?p=subscribe",
+													"toolbar=no, scrollbars=no");
+								}
+							</script>
+							<form onSubmit="subscribeMail();return false;">
+								<input type="text" name="email" placeholder="Your email address">
+								<button class="subscribe-btn">Subscribe Now</button>
+							</form>
+						</div>
+						<div class="social-icon">
+							<ul>
+								<li><a href="http://www.facebook.com/pages/Philippine-Times/179808928702280" target="_blank"> <img
+										src="https://static.midwestradionetwork.com/web/premier/images/icon_facebook.png" />
+								</a></li>
+								<li><a href="https://twitter.com/pntimes" target="_blank"> <img
+										src="https://static.midwestradionetwork.com/web/premier/images/icon_twitter.png" />
+								</a></li>
+								<li><a href="https://plus.google.com/112447728162131364574"> <img
+										src="https://static.midwestradionetwork.com/web/premier/images/icon_google.png" />
+								</a></li>
+								<li><a
+									href="http://subscription.midwestradionetwork.com/?p=subscribe"
+									target="_blank"> <img
+										src="https://static.midwestradionetwork.com/web/premier/images/icon_sms.png" />
+								</a></li>
+							</ul>
+						</div>
+
+
+					</div>
+
+
+					<div class="row collapse add-section float-left inner-add">
+						<div class="large-12 text-center hide-for-small-only">
+
+							<script id="mNCC" language="javascript">
+								medianet_width = "728";
+								medianet_height = "90";
+								medianet_crid = "344129722";
+								medianet_versionId = "3111299";
+							</script>
+							<script src="//contextual.media.net/nmedianet.js?cid=8CUG1R34Q"></script>
+
+						</div>
+					</div>
+
+					<div class="row collapse news-releases">
+						<div class="large-12 collapse">
+							<div class="news-releases-text">
+								<h4>
+									<a href="#">News RELEASES</a>
+								</h4>
+								<p>
+									Publish news of your business, community or sports group,
+									personnel appointments, major event and more by submitting a
+									news release to <span>Philippine Times</span>.
+								</p>
+								<a href="/news-releases" class="more-info">More Information</a>
+							</div>
+						</div>
+					</div>
+
+				</div>
+
+
+				<div class="large-4  medium-5 collapse right-section">
+
+
+					<div class="row collapse weather-add text-center"
+						style="padding: 0;">
+						<div class="large-12 columns">
+							<div class="row collapse">
+								<div class="large-12 columns">
+									<img src="https://static.midwestradionetwork.com/web/premier/weather/28.png" width="100px" /> 
+									<strong style="font-size: 45px;">31</strong> 
+									<span>&#8451;</span>
+								</div>
+							</div>
+							<div class="row collapse">
+								<div class="large-12 columns">
+									<span>Mostly Cloudy in Science Garden</span>
+								</div>
+							</div>
+
+						</div>
+					</div>
+
+
+					<div class="row collapse add-section text-center">
+						<div class="large-12 columns">
+
+							<script id="mNCC" language="javascript">
+								medianet_width = "300";
+								medianet_height = "600";
+								medianet_crid = "146425595";
+								medianet_versionId = "3111299";
+							</script>
+							<script src="//contextual.media.net/nmedianet.js?cid=8CUG1R34Q"></script>
+
+						</div>
+					</div>
+
+					<div class="row collapse business-new">
+						<div class="barking-new">
+							<h3>International</h3>
+							<a href="/category/b8de8e630faf3631"
+								class="section float-right"> Section</a>
+						</div>
+
+						<div class="large-12 columns">
+							<h5>
+								<a href="/news/269792525/white-house-order-prohibits-investment-in-chinese-defense-tech-firms">White House order prohibits investment in Chinese defense, tech firms</a>
+							</h5>
+							<div class="media-object-section">
+								<a href="/news/269792525/white-house-order-prohibits-investment-in-chinese-defense-tech-firms"><img
+									src="https://cdn.bignewsnetwork.com/cus1622872417306.jpg"
+									width="200px"> </a>
+							</div>
+							
+							<div class="media-object-section">
+								<p> WASHINGTON D.C.: Expanding the scope of a Trump-era order, President Joe Biden signed an executive order late last week banning ...</p>
+							</div>
+						</div>
+
+						<div class="large-12 columns">
+							<h5>
+								<a href="/news/269787388/during-covid-2020-us-auto-deaths-soar-to-38680">During Covid, 2020 U.S. auto deaths soar to 38,680</a>
+							</h5>
+							<div class="media-object-section">
+								<a href="/news/269787388/during-covid-2020-us-auto-deaths-soar-to-38680"><img
+									src="https://cdn.bignewsnetwork.com/cus1622870973736.jpg"
+									width="200px"> </a>
+							</div>
+							
+							<div class="media-object-section">
+								<p> WASHINGTON D.C.: Unsafe driving was the cause of a 13-year high in U.S. traffic deaths, according to officials.The National Highway ...</p>
+							</div>
+						</div>
+
+						<div class="large-12 columns">
+							<h5>
+								<a href="/news/269782843/tax-havens-to-take-hit-from-new-global-taxation-rate">Tax havens to take hit from new global taxation rate</a>
+							</h5>
+							<div class="media-object-section">
+								<a href="/news/269782843/tax-havens-to-take-hit-from-new-global-taxation-rate"><img
+									src="https://cdn.bignewsnetwork.com/rfi1622916983.jpg"
+									width="200px"> </a>
+							</div>
+							
+							<div class="media-object-section">
+								<p> Finance ministers from wealthy G7 nations on Saturday endorsed a global minimum corporate tax of at least 15 percent, rallying ...</p>
+							</div>
+						</div>
+
+						<div class="large-12 columns">
+							<h5>
+								<a href="/news/269779338/840000-fine-for-media-violating-court-order-in-australia">$840,000 fine for media violating court order in Australia</a>
+							</h5>
+							<div class="media-object-section">
+								<a href="/news/269779338/840000-fine-for-media-violating-court-order-in-australia"><img
+									src="https://cdn.bignewsnetwork.com/cus1622872061543.jpg"
+									width="200px"> </a>
+							</div>
+							
+							<div class="media-object-section">
+								<p> MELBOURNE, Australia: An Australian court has ordered 12 media outlets, most of them owned by Nine Entertainment and Rupert Murdoch's ...</p>
+							</div>
+						</div>
+
+						<div class="large-12 columns">
+							<h5>
+								<a href="/news/269774982/100-years-on-from-the-tulsa-race-massacre">100 years on from the Tulsa race massacre</a>
+							</h5>
+							<div class="media-object-section">
+								<a href="/news/269774982/100-years-on-from-the-tulsa-race-massacre"><img
+									src="https://cdn.bignewsnetwork.com/cus1622867398498.jpg"
+									width="200px"> </a>
+							</div>
+							
+							<div class="media-object-section">
+								<p> One hundred years after the worst instance of racist mob violence in 20th-century America, the Tulsa Race Massacre is finally ...</p>
+							</div>
+						</div>
+
+						<div class="large-12 columns">
+							<h5>
+								<a href="/news/269772066/more-violence-in-myanmar-twenty-protesters-killed">More violence in Myanmar, twenty protesters killed</a>
+							</h5>
+							<div class="media-object-section">
+								<a href="/news/269772066/more-violence-in-myanmar-twenty-protesters-killed"><img
+									src="https://cdn.bignewsnetwork.com/cus1622911556648.jpg"
+									width="200px"> </a>
+							</div>
+							
+							<div class="media-object-section">
+								<p> YANGON, Myanmar - Security forces in Myanmar killed at least twenty people on Saturday in violent clashes with villagers at ...</p>
+							</div>
+						</div>
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+					</div>
+
+					<div class="row collapse add-section3 text-center">
+						<div class="large-12 columns">
+
+							<script id="mNCC" language="javascript">
+								medianet_width = "300";
+								medianet_height = "250";
+								medianet_crid = "820268263";
+								medianet_versionId = "3111299";
+							</script>
+							<script src="//contextual.media.net/nmedianet.js?cid=8CUG1R34Q"></script>
+
+
+						</div>
+					</div>
+
+
+					<div class="row collapse business-new">
+						<div class="barking-new">
+							<h3>Business</h3>
+							<a href="/category/3a8a80d6f705f8cc"
+								class="section float-right"> Section</a>
+						</div>
+
+						<div class="large-12 columns">
+							<h5>
+								<a href="/news/269792596/world-food-prices-up-40-in-one-year-says-un-agency">World food prices up 40% in one year, says UN agency</a>
+							</h5>
+							<div class="media-object-section">
+								<a href="/news/269792596/world-food-prices-up-40-in-one-year-says-un-agency"><img
+									src="https://cdn.bignewsnetwork.com/cus1622871779465.jpg"
+									width="200px"> </a>
+							</div>
+							
+							<div class="media-object-section">
+								<p> ROME, Italy: Food prices worldwide rose at the fastest pace in more than a decade in May, according to a ...</p>
+							</div>
+						</div>
+
+						<div class="large-12 columns">
+							<h5>
+								<a href="/news/269787357/report-shows-domestic-irish-economy-down-global-companies-up">Report shows domestic Irish economy down, global companies up</a>
+							</h5>
+							<div class="media-object-section">
+								<a href="/news/269787357/report-shows-domestic-irish-economy-down-global-companies-up"><img
+									src="https://cdn.bignewsnetwork.com/cus1622871552465.jpg"
+									width="200px"> </a>
+							</div>
+							
+							<div class="media-object-section">
+								<p> DUBLIN, Ireland: The Irish economy grew 7.8 percent in the first quarter of 2021 - registering the highest growth in ...</p>
+							</div>
+						</div>
+
+						<div class="large-12 columns">
+							<h5>
+								<a href="/news/269782857/after-diverting-ryanair-flight-eu-bans-belarus-airlines">After diverting Ryanair flight, EU bans Belarus airlines</a>
+							</h5>
+							<div class="media-object-section">
+								<a href="/news/269782857/after-diverting-ryanair-flight-eu-bans-belarus-airlines"><img
+									src="https://cdn.bignewsnetwork.com/cus1622933728103.jpg"
+									width="200px"> </a>
+							</div>
+							
+							<div class="media-object-section">
+								<p> BRUSSELS, Belgium: The European Union, on Friday, prohibited all Belarusian airlines from flying in its airspace or landing at the ...</p>
+							</div>
+						</div>
+
+						<div class="large-12 columns">
+							<h5>
+								<a href="/news/269782843/tax-havens-to-take-hit-from-new-global-taxation-rate">Tax havens to take hit from new global taxation rate</a>
+							</h5>
+							<div class="media-object-section">
+								<a href="/news/269782843/tax-havens-to-take-hit-from-new-global-taxation-rate"><img
+									src="https://cdn.bignewsnetwork.com/rfi1622916983.jpg"
+									width="200px"> </a>
+							</div>
+							
+							<div class="media-object-section">
+								<p> Finance ministers from wealthy G7 nations on Saturday endorsed a global minimum corporate tax of at least 15 percent, rallying ...</p>
+							</div>
+						</div>
+
+						<div class="large-12 columns">
+							<h5>
+								<a href="/news/269780087/apartment-cash-offered-to-those-getting-vaccination-in-hong-kong">Apartment, cash offered to those getting vaccination in Hong Kong</a>
+							</h5>
+							<div class="media-object-section">
+								<a href="/news/269780087/apartment-cash-offered-to-those-getting-vaccination-in-hong-kong"><img
+									src="https://cdn.bignewsnetwork.com/cus1622870714871.jpg"
+									width="200px"> </a>
+							</div>
+							
+							<div class="media-object-section">
+								<p> HONG KONG: As demand for Covid vaccines has fallen in Hong Kong, private companies are offering residents incentives to become ...</p>
+							</div>
+						</div>
+
+						<div class="large-12 columns">
+							<h5>
+								<a href="/news/269776918/25-tariff-considered-by-us-on-countries-taxing-american-electronics">25% tariff considered by U.S. on countries taxing American electronics</a>
+							</h5>
+							<div class="media-object-section">
+								<a href="/news/269776918/25-tariff-considered-by-us-on-countries-taxing-american-electronics"><img
+									src="https://cdn.bignewsnetwork.com/cus1622785502718.jpg"
+									width="200px"> </a>
+							</div>
+							
+							<div class="media-object-section">
+								<p> WASHINGTON D.C.: The US announced on June 2 that duties of 25 percent will be imposed on imports of certain ...</p>
+							</div>
+						</div>
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+						
+
+					</div>
+
+
+					<div class="row collapse review-section">
+						<div class="barking-new">
+							<h3>Movie Review</h3>
+						</div>
+						<div class="large-12 collapse">
+							<a href="/review/4333"> <img
+								src="https://www.qnetwork.com/movie-posters/irishman-large.jpg" />
+							</a>
+							<div class="text-section">
+								<h5>
+									<a href="/review/4333">The Irishman </a>
+								</h5>
+								<div>Irishman</div>
+							</div>
+						</div>
+					</div>
+
+				</div>
+			</div>
+			<footer>
+				<div class="container">
+					<div class="footer-top">
+						<div class="footer-nav">
+							<ul>
+								<li><a href="/about">About us</a></li>
+								<li><a href="/contact">Contact us</a></li>
+								<li><a href="/news-releases">News Releases</a></li>
+								<li><a href="/privacy">Privacy Policy</a></li>
+								<li><a href="/terms-and-conditions">Terms &amp;
+										Conditions</a></li>
+								<li><a href="/archive">Archives</a></li>
+								<li><a href="/sitemap">Sitemap</a></li>
+								<li><a href="http://www.searchweather.net/">Weather</a></li>
+								<li><a href="http://www.midwestradionetwork.com/">Network</a></li>
+							</ul>
+						</div>
+						<div class="footer-social">
+							<ul>
+								<li><a href="http://www.facebook.com/pages/Philippine-Times/179808928702280" target="_blank"> <img
+										src="https://static.midwestradionetwork.com/web/premier/images/fb-icon.jpg" />
+								</a></li>
+								<li><a href="https://twitter.com/pntimes" target="_blank"> <img
+										src="https://static.midwestradionetwork.com/web/premier/images/tw-icon.jpg" />
+								</a></li>
+								<li><a href="https://plus.google.com/112447728162131364574" target="_blank"> <img
+										src="https://static.midwestradionetwork.com/web/premier/images/go-icon.jpg" />
+								</a></li>
+								<li><a href="http://feeds.philippinetimes.com/rss/0267775d6f1c3971" target="_blank"> <img
+										src="https://static.midwestradionetwork.com/web/premier/images/wifi-icon.jpg" />
+								</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="footer-bootam">
+						<p>&copy; Copyright 1999-2021 Philippine Times. All rights reserved.</p>
+					</div>
+				</div>
+			</footer>
+
+		</div>
+
+
+		<script
+			src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.3.0/js/foundation.min.js"></script>
+		<script
+			src="https://static.midwestradionetwork.com/web/premier/js/stick.js"></script>
+		<script>
+			window.onload = loadOembedVideo();
+		</script>
+
+	</div>
+
+	<script type="text/javascript"
+		src="//platform-api.sharethis.com/js/sharethis.js#property=5a6ff818491c0100113d7616&product=custom-share-buttons"></script>
+
+</body>
+</html>
